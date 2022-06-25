@@ -2,5 +2,24 @@ body{
     background-color: white;
 }
 h1{
-    color: brown;
+    color: blue;
+}
+.summary{
+    font-size: 20 px;
+    text-decoration: underline;
+    border:4px solid;
+    padding: 10px;
+}
+#parrafopla{
+    color:aqua;
+    background-color: black;
+
+}
+button{
+    width: 100px;
+
+}
+
+button:hover{
+    color: blue;
 }
